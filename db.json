@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": "f3f3",
+      "fulName": "Ola Wale",
+      "email": "ezemegospel90@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "1564",
+      "fulName": "Ola Wale",
+      "email": "ezemegospel90@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "ef80",
+      "fulName": "Ola Wale",
+      "email": "ezemegospel90@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "6249",
+      "fulName": "Ola Wale",
+      "email": "ezemegospel90@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "b8c8",
+      "fulName": "Ola Wale",
+      "email": "ezemegospel90@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "f808",
+      "fulName": "Ola Wale",
+      "email": "ezemegospel90@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "9b77",
+      "fulName": "Ola Wale",
+      "email": "ezemegospel90@gmail.com",
+      "password": "123",
+      "confirmPassword": "12"
+    },
+    {
+      "id": "8a6d",
+      "fulName": "Ola Wale",
+      "email": "ezemegospel90@gmail.com",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "30c9",
+      "fulName": "Ola Wale",
+      "email": "ezemegospel90@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "2f2b",
+      "fulName": "Ola Wale",
+      "email": "ezemegospel90@gmail.com",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "169c",
+      "fulName": "Ola Wale",
+      "email": "ezemegospel90@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "d3e6",
+      "fulName": "Ola Wale",
+      "email": "Ola@gmail.com",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "114e",
+      "fulName": "ola",
+      "email": "ezemegospel90@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345"
+    },
+    {
+      "id": "c332",
+      "fulName": "wale",
+      "email": "wale@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456"
+    }
+  ]
+}
